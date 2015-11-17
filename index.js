@@ -1,7 +1,5 @@
 'use strict';
 
-console.log('index load4');
-
 module.exports = {
   UiButton      : require('./lib/ui-button'),
   UiStateBinary : require('./lib/ui-state-binary'),
