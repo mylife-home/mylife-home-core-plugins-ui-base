@@ -1,6 +1,6 @@
 'use strict';
 
-console.log('index load3');
+console.log('index load4');
 
 module.exports = {
   UiButton      : require('./lib/ui-button'),
