@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-  UiButton      : require('./lib/ui-button'),
-  UiStateBinary : require('./lib/ui-state-binary'),
-  UiState0_100  : require('./lib/ui-state-0-100')
+  UiButton       : require('./lib/ui-button'),
+  UiStateBinary  : require('./lib/ui-state-binary'),
+  UiStatePercent : require('./lib/ui-state-precent')
 };
