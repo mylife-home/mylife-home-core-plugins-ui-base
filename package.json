@@ -1,6 +1,6 @@
 {
   "name": "mylife-home-core-plugins-ui-base",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Mylife Home Core Plugin: UI Base",
   "main": "index.js",
   "repository": "https://github.com/mylife-home/mylife-home-core-plugins-ui-base",
